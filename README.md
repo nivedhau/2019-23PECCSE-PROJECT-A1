@@ -11,8 +11,7 @@ Nivedha.U (Team Member 3) - 211419104185
 # Project Description
 
 	This project was done using ML and NLP. 
-	In this project, we classify the 6 types of emotions by uploading a text or voice as input and the
-trained model would display the result. 
+	In this project, we classify the 6 types of emotions by uploading a text or voice as input and the trained model would display the result. 
 	We trained the model with three different algorithms like Random forest, Decision tree algorithm, Linear SVM. 
 	The maximum accuracy percentage obtained was 90 from Linear SVM algorithm which we used to deploy the model. 
 	We have did this project in the form of a web page where we have used Flask framework to integrate our model and website. 
